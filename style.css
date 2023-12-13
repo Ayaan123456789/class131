@@ -1,0 +1,12 @@
+.header{
+    width: 100%;
+    box-shadow: 50%;
+    color: #0de0ba;
+    background: none;
+}
+
+.anchor{
+    background-image: none;
+    background: none;
+    border-radius: 29px;
+}
